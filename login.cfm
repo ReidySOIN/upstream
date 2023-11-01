@@ -3,3 +3,6 @@ Formulario
   -Usuario
   -Contraseña
 Botón ingresar
+Botón recordar contraseña
+
+Pie de página
